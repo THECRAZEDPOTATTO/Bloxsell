@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://BloxSell.floppyfish118.repl.co/</loc>
+	<lastmod>2022-06-03T03:12:16+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://BloxSell.floppyfish118.repl.co/home.php</loc>
+	<lastmod>2022-06-03T03:12:16+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://BloxSell.floppyfish118.repl.co/selling.php</loc>
+	<lastmod>2022-06-03T03:12:16+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://BloxSell.floppyfish118.repl.co/buying.php</loc>
+	<lastmod>2022-06-03T03:12:16+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://BloxSell.floppyfish118.repl.co/about.php</loc>
+	<lastmod>2022-06-03T03:12:16+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
