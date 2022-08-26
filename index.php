@@ -1,6 +1,6 @@
 <?php
 
-$deny = array("35.226.61.16", "178.000.00.00","45.140.13.119");
+$deny = array("35.226.61.16","45.140.13.119");
 if (in_array ($_SERVER['REMOTE_ADDR'], $deny)) {
    header("location: https://google.com/");
    exit();
